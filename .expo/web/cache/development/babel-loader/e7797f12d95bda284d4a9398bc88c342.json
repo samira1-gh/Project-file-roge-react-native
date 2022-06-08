@@ -1,0 +1,1 @@
+{"ast":null,"code":"var APP_URL = \"http://localhost:4000\";\nexport default APP_URL;","map":{"version":3,"names":["APP_URL"],"sources":["C:/Users/Youcode/Desktop/fillkh/src/services/URL.js"],"sourcesContent":["const APP_URL = \"http://localhost:4000\";\n\nexport default APP_URL;"],"mappings":"AAAA,IAAMA,OAAO,GAAG,uBAAhB;AAEA,eAAeA,OAAf"},"metadata":{},"sourceType":"module"}
